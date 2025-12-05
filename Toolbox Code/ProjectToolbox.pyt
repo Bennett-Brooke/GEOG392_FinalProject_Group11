@@ -147,11 +147,6 @@ class ExtractCountyData(object):
         # ----------------------------------------------------
         centroids_to_export = arcpy.management.SelectLayerByLocation(centroids_output, "INTERSECT", food_desert_output)
 
-        # MESSAGE TO CLAY (delete after done with your portion):
-        # At this point, the centroids outside of the buffer have been selected. You should be able to just export based on what
-        # was selected right above this message. Good luck, and thank you!
-
-
         # ----------------------------------------------------
         # Export Candidates (Yuan Niu & Clay Davlin)
         # ----------------------------------------------------
