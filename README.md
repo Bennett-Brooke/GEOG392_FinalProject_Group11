@@ -3,7 +3,7 @@ This repository contains the code for Group 11's GEOG 392 final project: Food De
 
 Group Members: Joel Arndt, Brooke Bennett, Clay Davlin, Braden Hannagan, Jennyfer Hoang, Fio Llerena, Yuan Niu
 
-[Code Walk Through Video](https://www.youtube.com/watch?v=mcoBe6s1c5U)
+[Code Walk Through Video](https://youtu.be/3_jsLrc5Gas)
 
 [Project Package](/Downloads/ProjectPackage.ppkx)
 
