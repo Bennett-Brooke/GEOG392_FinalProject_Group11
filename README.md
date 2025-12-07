@@ -5,7 +5,7 @@ Group Members: Joel Arndt, Brooke Bennett, Clay Davlin, Braden Hannagan, Jennyfe
 
 [Code Walk Through Video](https://www.youtube.com/watch?v=mcoBe6s1c5U)
 
-[Project Package](/Downloads/Project.ppkx)
+[Project Package](/Downloads/ProjectPackage.ppkx)
 
 [Notebook Code](/Downloads/GrocerySetup.ipynb)
 
